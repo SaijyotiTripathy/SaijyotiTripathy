@@ -8,7 +8,7 @@
 # Hi there! 👋
 - :school: I'm _Saijyoti Tripathy_ currently a **CSE** student at <a href="https://silicon.ac.in/bbsr-home/">@SIT</a>
 - 💻 I'm also pursuing my BSc degree in **Data Science and Programming** from  <a href="https://onlinedegree.iitm.ac.in/">@IITMadras</a>
-- 🔭 I’m currently working on a **Video Processing** project in machine learning
+- 🔭 I’m currently working on a **Deep Learning** project
 - 🤔 I’m looking for help with **Data Structures and Algorithms**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - :bulb:  I love to participate in **Hackathons** and **programs**
