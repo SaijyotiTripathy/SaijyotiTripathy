@@ -26,4 +26,4 @@
 ## Some Fun Stats📊
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SaijyotiTripathy&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaijyotiTripathy&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaijyotiTripathy&layout=compact)
