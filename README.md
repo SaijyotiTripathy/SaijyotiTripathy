@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love collecting quotes
 
 
-<h2 align="center">Find me around the web :globe_with_meridians:</h2>
+<h1 align="center"> Find me around the web :globe_with_meridians:</h1>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/saijyoti-tripathy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:tripathysaijyoti02@gmail.com?subject=Hello%20Saijyoti,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@
   <a href="https://medium.com/@SaijyotiTripathy"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Some Fun Stats📊
+<h1 align="center"> Some Fun Stats📊 </h1>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SaijyotiTripathy&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaijyotiTripathy&layout=compact)
