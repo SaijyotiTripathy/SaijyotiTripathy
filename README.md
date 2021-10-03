@@ -17,6 +17,26 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love collecting quotes
 
+<h1 align="center"> Some Fun Stats 📊 </h1>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SaijyotiTripathy&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaijyotiTripathy&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+  </a>
+</p>
+
+<h1 align="center"> Contributions 🔥</h1>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=SaijyotiTripathy&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=SaijyotiTripathy&theme=react-dark&hide_border=true">
+  </a>
+</p>
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
 <p align="center">
@@ -26,8 +46,3 @@
   <a href="https://www.instagram.com/saijyoti_tripathy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@SaijyotiTripathy"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<h1 align="center"> Some Fun Stats📊 </h1>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SaijyotiTripathy&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaijyotiTripathy&layout=compact)
