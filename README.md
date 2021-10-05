@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on a **Deep Learning** research project
 - 🤔 I’m looking for help with **Data Structures and Algorithms**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
-- :bulb:  I love to participate in **Hackathons** and **programs**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love collecting quotes
 
