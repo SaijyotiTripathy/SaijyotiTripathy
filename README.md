@@ -16,7 +16,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love collecting quotes
 
-<h1 align="center"> Skills and Tools </h1>
+<h1 align="center"> Tools and Technologies⚡</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="30" />
   <img src="https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="30" />
