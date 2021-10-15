@@ -16,6 +16,24 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love collecting quotes
 
+<h1 align="center"> Skills and Tools </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="30" />
+  <img src="https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="30" />
+  <img src="https://img.shields.io/badge/c-%2300599C?logo=c&logoColor=white" alt="C logo" title="C" height="30" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00?logo=java&logoColor=white" alt="Java logo" title="Java" height="30" />
+  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="30" />
+  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
+  <img src="https://img.shields.io/badge/github-%23121011?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="30" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows logo" title="Windows" height="30" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC?logo=Canva&logoColor=white" alt="Canva logo" title="Canva" height="30" />
+  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00?logo=jupyter&logoColor=white" alt="Jupyter logo" title="Jupyter" height="30" />
+  <img src="https://img.shields.io/badge/numpy-%23013243?logo=numpy&logoColor=white" alt="Numpy logo" title="Numpy" height="30" />
+  <img src="https://img.shields.io/badge/pandas-%23150458?logo=pandas&logoColor=white" alt="Pandas logo" title="Pandas" height="30" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn logo" title="Sklearn" height="30" />
+</p>
+
 <h1 align="center"> Some Fun Stats 📊 </h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
