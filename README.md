@@ -37,10 +37,10 @@
 <h1 align="center"> Some Fun Stats 📊 </h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SaijyotiTripathy&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=SaijyotiTripathy&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF" height="165">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaijyotiTripathy&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaijyotiTripathy&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&title_color=00BFFF"  height="165">
   </a>
 </p>
 
@@ -51,9 +51,10 @@
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=SaijyotiTripathy&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=SaijyotiTripathy&theme=react-dark&hide_border=true&area=true">
   </a>
 </p>
+
 
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
 <p align="center">
