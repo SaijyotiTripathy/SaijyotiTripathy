@@ -12,9 +12,8 @@
 - 💻 I'm also pursuing my BSc degree in **Data Science and Programming** from  <a href="https://onlinedegree.iitm.ac.in/">@IITMadras</a>
 - 🔭 I’m currently working on a **Deep Learning** research project
 - 🤔 I’m looking for help with **Data Structures and Algorithms**
-- :neutral_face: I have a **love/hate** relationship with **Programming**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love collecting quotes
+
 
 <h1 align="center"> Tools and Technologies⚡</h1>
 <p align="center">
