@@ -10,7 +10,7 @@
 # Hi there! 👋
 - :school: I'm <a href="https://saijyotitripathy.github.io/">_Saijyoti Tripathy_</a> currently a **CSE** student at <a href="https://silicon.ac.in/bbsr-home/">@SIT</a>
 - 💻 I'm also pursuing my BSc degree in **Data Science and Programming** from  <a href="https://onlinedegree.iitm.ac.in/">@IITMadras</a>
-- 🔭 I’m currently working on a **Deep Learning** research project
+
 - 🤔 I’m looking for help with **Data Structures and Algorithms**
 - 😄 Pronouns: She/Her
 
