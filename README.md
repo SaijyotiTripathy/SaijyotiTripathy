@@ -2,10 +2,6 @@
   <img src="https://github.com/SaijyotiTripathy/SaijyotiTripathy/blob/main/saijyoti.gif" alt="👋 Hi there! I'm Saijyoti" title="👋 Hi there! I'm Saijyoti"/>
 </p>
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Saijyoti.Saijyoti&color=00df00)
-<!--
-**SaijyotiTripathy/SaijyotiTripathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 # Hi there! 👋
 - :school: I'm <a href="https://saijyotitripathy.github.io/">_Saijyoti Tripathy_</a> currently a **CSE** student at <a href="https://silicon.ac.in/bbsr-home/">@SIT</a>
@@ -58,7 +54,6 @@
 <h1 align="center"> Find me around the web :globe_with_meridians:</h1>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/saijyoti-tripathy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tripathysaijyoti02@gmail.com?subject=Hello%20Saijyoti,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/TSaijyoti"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@SaijyotiTripathy"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
