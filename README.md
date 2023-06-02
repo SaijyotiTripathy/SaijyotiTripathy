@@ -5,10 +5,11 @@
 
 # Hi there! 👋
 - :school: I'm <a href="https://saijyotitripathy.github.io/">_Saijyoti Tripathy_</a> currently a **CSE** student at <a href="https://silicon.ac.in/bbsr-home/">@SIT</a>
-- :woman_technologist: I'm also pursuing my BSc degree in **Data Science and Programming** from  <a href="https://onlinedegree.iitm.ac.in/">@IITMadras</a>
+- :woman_technologist: I'm also pursuing my BS degree in **Data Science and Applications** from  <a href="https://onlinedegree.iitm.ac.in/">@IITMadras</a>
 - :heavy_check_mark: I have done projects on Natural Language Processing and Computer Vision.
 - :thinking: I am intrigued by the concepts of CNN style transfer and deep dream.
 - 💬 Talk to me about maths and python.
+- 📄 Checkout my <a href="https://drive.google.com/drive/folders/18tgHJPJ3gHsnuy772hNV69U6B4WyYVvt">Resume</a>
 - 😄 Pronouns: She/Her
 
 
