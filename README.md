@@ -7,7 +7,6 @@
 - :woman_technologist: I'm **Saijyoti Tripathy** currently working as a junior Data Engineer at <a href="https://www.haberwater.com/">Haber</a>.
 - :school: I completed my Bachelor's degree in **Computer Science** from <a href="https://silicon.ac.in/bbsr-home/">@SIT</a> and Foundation's degree in **Data Science and Applications** from  <a href="https://onlinedegree.iitm.ac.in/">@IITMadras</a>
 - :heavy_check_mark: I love doing projects related to Natural Language Processing and Computer Vision.
-- 💬 Talk to me about maths and logical reasoning.
 - 😄 Pronouns: She/Her
 
 
